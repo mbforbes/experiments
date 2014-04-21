@@ -1,0 +1,8 @@
+Tuscan Pixel Positions
+
+Blimp1 - X = 695, Y = 235
+Cloud1 - X = 392, Y = 74
+Cyprus1 - X = 26, Y = 60
+Cyprus2 - X = 188, Y = 4
+TuscanHills - X = 0, Y = 495
+TuscanSky - X = 0, Y = 0
